@@ -12,3 +12,4 @@ E:\C#\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
 E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
 E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
 E:\C#\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.sourcelink.json

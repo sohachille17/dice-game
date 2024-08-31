@@ -3,7 +3,7 @@ namespace DiceRollGame;
 class Dice
 {
     const int MAX = 7;
-    const int ROUND = 3;
+    public const int ROUND = 4;
     public int NumberOfTries {  get;  set ;} = ROUND;
     public int TotalCount { get;  set ;}
     public bool IsValidNumber { get; private set ;}

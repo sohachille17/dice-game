@@ -43,7 +43,8 @@ class Play
             }
             if(dice1.NumberOfTries == 0)
             {
-                Console.WriteLine($"You scored is {dice1.TotalCount} / {dice1.NumberOfTries}");
+                int totalLength =  Dice.ROUND;
+                Console.WriteLine($"You scored {dice1.TotalCount} / {totalLength}");
             }
 
 
