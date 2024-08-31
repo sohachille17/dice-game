@@ -1,0 +1,14 @@
+E:\C#\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+E:\C#\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+E:\C#\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+E:\C#\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+E:\C#\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+E:\C#\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+E:\C#\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+E:\C#\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
